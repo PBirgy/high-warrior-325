@@ -1,0 +1,10 @@
+[user]
+	name = PBirgy
+	email = PVB206@nyu.edu
+[alias]
+	co = checkout
+[core]
+	editor = mate -w
+[github]
+	user = name
+	token = ec0fb5c2c1043d1655d2d907d5d9b77f
